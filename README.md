@@ -9,3 +9,6 @@ this ressource pack does not reduce your fps
 
 update notes:
 -changed logo
+
+**make sure to unzip the ressource pack beford using it** 
+anyways :)
